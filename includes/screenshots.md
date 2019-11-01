@@ -1,3 +1,9 @@
-[![Twitter Home](./includes/media/home.png)](./media/home.png)
+<p align="center">
 
-[![Twitter Timeline](./includes/media/timeline.png)](./media/timeline.png)
+# Screenshots :camera:
+
+<img src="./media/home.png" width="500px" />
+
+<img src="./media/timeline.png" width="500px" />
+
+</p>
