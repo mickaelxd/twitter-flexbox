@@ -101,7 +101,7 @@ div.banner {
   height: 240px;
   width:100%;
   /*background: #3bb9e3;*/
-  background: url('/images/wallpaper.jpeg');
+  background: url('./images/wallpaper.jpeg');
   background-size: cover;
 
   display:flex;
